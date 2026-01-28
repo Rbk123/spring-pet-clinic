@@ -5,6 +5,6 @@ import jakarta.persistence.Table;
 
 @Entity
 @Table(name = "pet_type")
-public class Pet_Type extends NamedEntity{
+public class PetType extends NamedEntity{
 
 }
